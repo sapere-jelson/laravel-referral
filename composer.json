@@ -20,7 +20,6 @@
         "illuminate/database": "^8.0|^9.0|^10.0",
         "illuminate/auth": "^8.0|^9.0|^10.0"
     },
-    "prefer-stable": true,
     "autoload-dev": {
         "psr-4": {
             "Sapere\\LaravelReferral\\Tests\\": "tests"
