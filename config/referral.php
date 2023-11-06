@@ -29,4 +29,7 @@ return [
 
     // The length of the referral code generated for each user
     'referral_length' => 8,
+
+    // This points computes as percentage
+    'reward_points' => 10
 ];
